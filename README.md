@@ -12,7 +12,7 @@ highlight some text and right click to pick out the extension ![image](https://g
 
 then copy down the code when used  ![image](https://github.com/777388/Santa.X.Kryptos/assets/96343159/fe471f2e-64f2-40a4-ac45-d9fd38eab29a)
 
-paste it into console on microsoft edge (Was running into issues putting it into Chrome) using Ctrl+c or Strl+shift+i
+paste it into console on microsoft edge (Was running into issues putting it into Chrome) using Ctrl+c or Ctrl+shift+i
 ![image](https://github.com/777388/Santa.X.Kryptos/assets/96343159/5de687c6-2fbd-4d79-b799-62731e4fe8ee)
 
 
